@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>illustration on Taller Integrado</title>
+    <link>https://mlebedina.github.io/NewHorizon/categories/illustration/</link>
+    <description>Recent content in illustration on Taller Integrado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://mlebedina.github.io/NewHorizon/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dirigibles</title>
+      <link>https://mlebedina.github.io/NewHorizon/portfolio/project-5/</link>
+      <pubDate>Sun, 16 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://mlebedina.github.io/NewHorizon/portfolio/project-5/</guid>
+      <description>Dentro de las áreas abordadas por el proyecto, se considera la movilización de recursos fuera de las zonas urbanas donde no hay caminos de acceso, lo que es aprovechado en términos de electromovilidad para generar nuevos métodos de transporte, como lo es una aeronave híbrida.</description>
+    </item>
+    
+    <item>
+      <title>Teleférico</title>
+      <link>https://mlebedina.github.io/NewHorizon/portfolio/project-3/</link>
+      <pubDate>Sun, 16 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://mlebedina.github.io/NewHorizon/portfolio/project-3/</guid>
+      <description>El proyecto resuelve la necesidad de movilizar personas en lugares de alta densidad poblacional a los que no llega el metro.</description>
+    </item>
+    
+  </channel>
+</rss>
