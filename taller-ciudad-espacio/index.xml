@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://mlebedina.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Encargo 1</title>
+      <link>https://mlebedina.github.io/taller-ciudad-espacio/docs/e01/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://mlebedina.github.io/taller-ciudad-espacio/docs/e01/</guid>
+      <description>Revisión de temáticas para el proyecto final.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://mlebedina.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
