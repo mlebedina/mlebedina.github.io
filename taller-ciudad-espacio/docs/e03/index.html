@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Taller Espacio y Ciudad 2021 - Francisca Lebedina</title>
+  <title>Encargo 3 - Francisca Lebedina</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://mlebedina.github.io/taller-ciudad-espacio/favicon.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-default-list'>
+<body class='page page-default-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -29,7 +29,7 @@
       </a>
     </li>
     
-    <li class="menu-item-documentación active">
+    <li class="menu-item-documentación">
       <a href="/taller-ciudad-espacio/docs/">
         <span>Documentación</span>
       </a>
@@ -56,7 +56,7 @@
       </a>
     </li>
     
-    <li class="menu-item-documentación active">
+    <li class="menu-item-documentación">
       <a href="/taller-ciudad-espacio/docs/">
         <span>Documentación</span>
       </a>
@@ -98,7 +98,7 @@
       <a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/e02/">Encargo 2</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/e03/">Encargo 3</a>
     </li>
     
@@ -117,52 +117,31 @@
         </div>
         <div class="col-12 col-md-9">
           
+<h1 class="title">Encargo 3</h1>
+<div class="content ">
+  <p>Para este tercer encargo explicamos el proyecto que estuvimos indagando en las investigaciones anteriores.</p>
+<hr>
+<h3 id="propuesta">Propuesta</h3>
 
-<span class="overview">Resumen General</span>
-<h1 class="title">Taller Espacio y Ciudad 2021</h1>
-<div class="content">
-  <h2 id="documentación-del-taller-espacio-y-ciudad">Documentación del Taller Espacio y Ciudad</h2>
-<p>Este template será utilizado para generar la documentación de los trabajos realizados en el Taller Espacio y Ciudad del Magíster de Innovación y Diseño 2021.</p>
+<iframe id='pdf-hugo' src='../../pdf/Presentacion12.07.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
+<p><a href="#top">[Volver Arriba]</a></p>
 
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/e01/">Encargo 1</a></h2>
-  <p>Revisión de temáticas para el proyecto final.</p>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/e02/">Encargo 2</a></h2>
-  <p>Dibujos a mano alzada del sistema propuesto.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/e03/">Encargo 3</a></h2>
-  <p>Dibujos a mano alzada del sistema propuesto.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/ejemplo/">Ejemplo Shortcodes</a></h2>
-  <p>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mlebedina.github.io/taller-ciudad-espacio/docs/markdown/">Ejemplos Markdown</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-
 
         </div>
       </div>
